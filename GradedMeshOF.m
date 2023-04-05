@@ -1,5 +1,5 @@
 % This program calculates the smallest cell size: dx
-% in a mesh created by blockMesh in OpenFOAM
+% for a Graded mesh created by blockMesh in OpenFOAM
 % Algorithm taken from OpenFOAM tutorial guide v2212, p. 34.
 %            -------
 % written by Tariq Ridwan: https://tariqridwan.github.io/
