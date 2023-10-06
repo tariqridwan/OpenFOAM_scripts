@@ -1,2 +1,2 @@
 # OpenFOAM
-some codes related to OpenFOAM usage
+Scripts for OpenFOAM usage: pre/post-processing
