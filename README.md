@@ -1,2 +1,2 @@
 # OpenFOAM
-Scripts for OpenFOAM usage: pre/post-processing
+Scripts for OpenFOAM usage: pre/post-processing.
